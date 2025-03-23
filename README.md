@@ -97,5 +97,5 @@ php artisan view:cache
 This project is **open-source** under the **MIT License**.
 
 ## 📞 Contact
-For inquiries or contributions, contact **[Your Name]** at **your@email.com** or visit **[Project Repository](https://github.com/your-repo/imnhs)**.
+For inquiries or contributions, contact **[Your Name]** at **esparragojames@gmail.com** or visit **[Project Repository](https://github.com/your-repo/imnhs)**.
 
