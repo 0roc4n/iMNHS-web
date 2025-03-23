@@ -78,7 +78,7 @@
   const menuItems = ref([
   { name: "Dashboard", icon: HomeIcon, route: "dashboard" },
   { name: "Users Management", icon: UsersIcon, route: "dashboard" },
-  { name: "Student Management", icon: AcademicCapIcon  , route: "dashboard" },
+  { name: "Student Management", icon: AcademicCapIcon  , route: "admin.student-list" },
   { name: "Teaching Management", icon: UserGroupIcon  , route: "dashboard" },
   { name: "Non-Teaching Management", icon: UsersIcon, route: "dashboard" },
   { name: "Classes & Subjects", icon: BookOpenIcon, route: "dashboard" },
